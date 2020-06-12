@@ -1,2 +1,4 @@
 *.jpg
 /MNIST
+/training_data.npy
+/kagglecatsanddogs_3367a/
